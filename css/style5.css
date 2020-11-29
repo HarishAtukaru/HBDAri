@@ -35,7 +35,7 @@ body {
 }
 
 body::after {
-  content: "The Begining!";
+  content: "The Beginning!";
   font-family: Parisienne, serif;
   position: absolute;
   top: 50%;
