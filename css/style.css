@@ -1,0 +1,22 @@
+html, body {
+  overflow: hidden;
+  background: black;
+}
+p{
+  color:white;
+  font-size: 200%;
+  font-family: 'Times New Roman', Times, serif;
+  position: absolute;
+  bottom: 5%;
+  left:35%;
+  text-align:center;
+
+}
+a{
+  color: rgba(255, 68, 0, 0.192);
+  font-size:150%;
+  position:fixed;
+  left:48%;
+  bottom:60%;
+  text-decoration: none;
+}

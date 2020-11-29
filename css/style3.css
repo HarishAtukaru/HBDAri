@@ -1,0 +1,193 @@
+
+.border {
+  height: 280px;
+  width: 280px;
+  background: transparent;
+  border-radius: 10px;
+  transition: border 1s;
+  position: relative;
+}
+.border:hover {
+  border: 1px solid #fff;
+}
+.card {
+  height: 300px;
+  width: 300px;
+  background: #808080;
+  border-radius: 10px;
+  transition: background 0.8s;
+  overflow: hidden;
+  background: #000;
+  box-shadow: 0 70px 63px -60px #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-top:2.5%;
+  margin-bottom:2.5%;
+}
+.card:hover h2 {
+  opacity: 1;
+}
+.card:hover .fa {
+  opacity: 1;
+}
+.card0 {
+  background: url("../images/1.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card0:hover {
+  background: url("../images/1.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card1 {
+  background: url("../images/2.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card1:hover {
+  background: url("../images/2.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card2 {
+  background: url("../images/3.jpg") center center no-repeat;
+  background-size: 300px;
+}
+.card2:hover {
+  background: url("../images/3.jpg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card3 {
+  background: url("../images/4.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card3:hover {
+  background: url("../images/4.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card4 {
+  background: url("../images/5.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card4:hover {
+  background: url("../images/5.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card5 {
+  background: url("../images/6.jpg") center center no-repeat;
+  background-size: 300px;
+}
+.card5:hover {
+  background: url("../images/6.jpg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card6 {
+  background: url("../images/7.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card6:hover {
+  background: url("../images/7.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card7 {
+  background: url("../images/8.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card7:hover {
+  background: url("../images/8.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card8 {
+  background: url("../images/9.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card8:hover {
+  background: url("../images/9.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card9 {
+  background: url("../images/10.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card9:hover {
+  background: url("../images/10.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card10 {
+  background: url("../images/11.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card10:hover {
+  background: url("../images/11.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card11 {
+  background: url("../images/12.jpg") center center no-repeat;
+  background-size: 300px;
+}
+.card11:hover {
+  background: url("../images/12.jpg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card12 {
+  background: url("../images/13.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card12:hover {
+  background: url("../images/13.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card13 {
+  background: url("../images/14.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card13:hover {
+  background: url("../images/14.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+.card14 {
+  background: url("../images/15.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card14:hover {
+  background: url("../images/15.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+
+h2 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #fff;
+  margin: 40px;
+  opacity: 0;
+  transition: opacity 1s;
+}
+.fa {
+  opacity: 0;
+  transition: opacity 1s;
+}
+.modal-full {
+  min-width: 50%;
+  margin-left: 80;
+}
+
+.modal-full .modal-content {
+  min-height: 100%;
+}
+
+.modal-body {
+  overflow: scroll;
+}
+.footer{
+  background-color: #808080;
+}
+#nextp{
+  opacity: 100%;
+}
