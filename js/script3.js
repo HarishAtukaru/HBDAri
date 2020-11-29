@@ -2,7 +2,7 @@ var img=['image',
 'images/img1.jpeg','images/img2.jpeg','images/img3.jpeg',
 'images/img4.jpeg','images/img5.jpeg','images/img6.jpeg',
 'images/img7.jpeg','images/img8.jpeg','images/img9.jpeg',
-'images/img10.jpeg','images/img11.jpeg','images/img12.jpg',
+'images/img10.jpeg','images/img11.jpeg','images/img12.jpeg',
 '','','',
 ];
 var arr=['contents',
