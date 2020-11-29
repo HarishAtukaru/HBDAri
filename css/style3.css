@@ -128,11 +128,11 @@
   background-size: 600px;
 }
 .card11 {
-  background: url("../images/12.jpeg") center center no-repeat;
+  background: url("../images/12.jpg") center center no-repeat;
   background-size: 300px;
 }
 .card11:hover {
-  background: url("../images/12.jpeg") left center no-repeat;
+  background: url("../images/12.jpg") left center no-repeat;
   background-size: 600px;
 }
 
